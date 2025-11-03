@@ -47,7 +47,7 @@ The logic uses:
 
 ## Circuit Preview
 ![Digital Clock Circuit](Digital_Clock_Circuit.png)
-## 📄 Circuit Schematic
+##  Circuit Schematic
 
 For detailed wiring and electrical connections, refer to the schematic diagram below:  
 [ View Full Schematic (PDF)](Schematic%20view.pdf)
