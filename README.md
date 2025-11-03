@@ -50,7 +50,7 @@ The logic uses:
 ## 📄 Circuit Schematic
 
 For detailed wiring and electrical connections, refer to the schematic diagram below:  
-[📘 View Full Schematic (PDF)](Schematic%20view.pdf)
+[ View Full Schematic (PDF)](Schematic%20view.pdf)
 
 ##  View the Project on Tinkercad
 You can view and simulate the full digital clock circuit here:  
